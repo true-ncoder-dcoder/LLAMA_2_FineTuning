@@ -9,3 +9,4 @@ To set up your environment to run the code, you need to install the required lib
 ```bash
 pip install transformers peft bitsandbytes trl deepeval evaluate
 
+python <your_script_name>.py
